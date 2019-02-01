@@ -1,0 +1,22 @@
+! -- Title:     bulb 
+! -- Author:    dkeg
+! -- Created:   2015 (revised 2016)
+
+background    #2c292b
+color0   #312e30
+color8  #4f4e4e
+foreground    #c3b495
+color1   #ab6d4e
+color2   #88885d
+color3   #c8a168
+color4   #45626e
+color5   #7c5545
+color6   #456e66
+color7   #c3b495
+color9  #ab6d4e
+color10 #88885d
+color11  #c8a168
+color12  #45626e
+color13  #7c5545
+color14  #456e66
+color15  #c3b495

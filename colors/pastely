@@ -1,0 +1,22 @@
+! -- Title:   pastely
+! -- Author:  dkeg
+! -- Created: 2016
+
+background    #2c2c2e
+color0   #2e2e30
+color8  #454548
+foreground    #aba786
+color1   #645446
+color2   #59674f
+color3   #87835d
+color4   #4d554f
+color5   #70614f
+color6   #666755
+color7   #aba786
+color9  #645446
+color10 #59674f
+color11  #87835d
+color12  #4d554f
+color13  #70614f
+color14  #666755
+color15  #c4c1aa

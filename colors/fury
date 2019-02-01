@@ -1,0 +1,23 @@
+! -- Title:     fury 
+! -- Author:    dkeg
+! -- Created:   2015
+! -- Modified:  2016
+
+background      #1e1e1e
+foreground      #9e9e91
+color0     #1f1f1f
+color8    #363636
+color1     #98442f
+color3     #9d8554
+color2     #4c6640
+color4     #4c596b
+color5     #7b6072
+color6     #385853
+color7     #9e9e91
+color9    #98442f
+color11    #9d8554
+color10   #4c6640
+color12    #4c596b
+color13    #7b6072
+color14    #385853
+color15    #9e9e91

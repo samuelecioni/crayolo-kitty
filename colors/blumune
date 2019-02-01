@@ -1,0 +1,23 @@
+! -- Title:     blumune 
+! -- Author:    dkeg 
+! -- Created:   2015
+! -- Modified:  2016
+
+background        #1c1f23
+color0       #202428
+foreground        #c0b9af
+color8      #33383f
+color1       #234640
+color2       #555552
+color3       #7e6b5f
+color4       #384758
+color5       #444d4d
+color6       #415459
+color7       #ccc7bf
+color9      #234640
+color10     #555552
+color11      #7e6b5f
+color12      #384758
+color13      #444d4d
+color14      #415459
+color15      #e3e0db

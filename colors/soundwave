@@ -1,0 +1,22 @@
+! -- Title:     soundwave 
+! -- Author:    dkeg
+! -- Created:   2016
+
+background     #29231f
+foreground     #bcb7aa
+color0    #2c2521
+color8   #514b49
+color1    #675141
+color2    #625438
+color3    #aa8f5f
+color4    #6e6051
+color5    #514540
+color6    #5e4e3c
+color7    #bcb7aa
+color9   #675141
+color10  #625438
+color11   #aa8f5f
+color12   #6e6051
+color13   #514540
+color14   #5e4e3c
+color15   #dedbd5

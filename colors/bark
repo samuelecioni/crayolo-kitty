@@ -1,0 +1,22 @@
+# -- Title:     bark 
+# -- Author:    dkeg
+# -- Created:   2015
+
+background    #30272b
+foreground    #bcb8ba
+color0   #31282c
+color8  #443c40
+color1   #925633
+color2   #697234
+color3   #978341
+color4   #5e6676
+color5   #694e63
+color6   #47676e
+color7   #bcb8ba
+color9  #925633
+color10 #697234
+color11  #978341
+color12  #5e6676
+color13  #694e63
+color14  #47676e
+color15  #bcb8ba

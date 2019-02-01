@@ -1,0 +1,23 @@
+! -- Title:     mattd
+! -- Author:    dkeg
+! -- Created:   2015 
+! -- Modified:  2016
+
+background      #20201f
+foreground      #b0b0a2
+color0     #222221
+color8    #3a3a38
+color1     #996140
+color3     #9d8554
+color2     #799c6a
+color4     #5f656a
+color5     #7b6064
+color6     #566e6b
+color7     #b0b0a2
+color9    #996140
+color11    #9d8554
+color10   #799c6a
+color12    #5f656a
+color13    #7b6064
+color14    #566e6b
+color15    #d3d3cb

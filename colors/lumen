@@ -1,0 +1,25 @@
+! -- Title:   lumen 
+! -- Author:  dkeg
+! -- Created: 2016
+
+#define b1g    #251e15
+#define b1lk   #282017
+#define b1blk  #3a342c
+background    #211b12
+color0   #231c12
+color8  #423624
+foreground    #a5977c
+color1   #8e3e40
+color2   #8f9939
+color3   #99702a
+color4   #64696c
+color5   #8e534d
+color6   #4c786b
+color7   #a5977c
+color9  #8e3e40
+color10 #8f9939
+color11  #99702a
+color12  #64696c
+color13  #8e534d
+color14  #4c786b
+color15  #a5977c
